@@ -1,0 +1,2 @@
+v1.0
+firmware_v1.0.bin
